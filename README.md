@@ -56,7 +56,3 @@ Schéma en étoile : la table de faits `vendor_sales_summary` est reliée à `Di
 ## Sources
 
 Ce dépôt est une **vitrine** : il présente le projet et ses résultats. Les sources (projet Power BI, requêtes, scripts, notebook, données) ne sont pas publiées. Pour en discuter, me contacter via mon profil GitHub.
-
-## Crédits
-
-Projet inspiré d'un tutoriel vidéo « Vendor Performance Data Analytics End-To-End » (SQL, Python, Power BI). Les scripts d'ingestion et de synthèse partent de ceux du tutoriel ; j'ai ajouté le chargement par blocs, les requêtes SQL 02 à 05, le notebook exécuté, le modèle en étoile et le dashboard. Le projet a été construit avec l'aide de Claude.
